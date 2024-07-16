@@ -8,7 +8,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitchaturvedii&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitChaturvedii&layout=compact)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitchaturvedii&show_icons=true&theme=transparent)
